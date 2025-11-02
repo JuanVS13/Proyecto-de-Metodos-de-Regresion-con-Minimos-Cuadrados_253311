@@ -1,0 +1,47 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'C:/Users/valen/.m2/repository/com/egrq/pruebaSolucionEcuaciones/1.0-SNAPSHOT/pruebaSolucionEcuaciones-1.0-SNAPSHOT.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'22'
+-sourcepath
+'C:/Users/valen/OneDrive/Documentos/NetBeansProjects/ProyectoMetodosRegresionMinCuad_253311/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/valen/OneDrive/Documentos/NetBeansProjects/ProyectoMetodosRegresionMinCuad_253311/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ProyectoMetodosRegresionMinCuad_253311 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'ProyectoMetodosRegresionMinCuad_253311 1.0-SNAPSHOT API'
+implementaciones
+pruebas
+C:\Users\valen\.m2\repository\com\egrq\pruebaSolucionEcuaciones\1.0-SNAPSHOT\pruebaSolucionEcuaciones-1.0-SNAPSHOT.jar = 1759731523389
+C:\Users\valen\OneDrive\Documentos\NetBeansProjects\ProyectoMetodosRegresionMinCuad_253311\src\main\java = 1762044459645
+C:\Users\valen\OneDrive\Documentos\NetBeansProjects\ProyectoMetodosRegresionMinCuad_253311\target\reports\apidocs\allclasses-index.html = 1762050630011
+C:\Users\valen\OneDrive\Documentos\NetBeansProjects\ProyectoMetodosRegresionMinCuad_253311\target\reports\apidocs\allpackages-index.html = 1762050630029
+C:\Users\valen\OneDrive\Documentos\NetBeansProjects\ProyectoMetodosRegresionMinCuad_253311\target\reports\apidocs\element-list = 1762050629885
+C:\Users\valen\OneDrive\Documentos\NetBeansProjects\ProyectoMetodosRegresionMinCuad_253311\target\reports\apidocs\help-doc.html = 1762050630063
+C:\Users\valen\OneDrive\Documentos\NetBeansProjects\ProyectoMetodosRegresionMinCuad_253311\target\reports\apidocs\index-all.html = 1762050630049
+C:\Users\valen\OneDrive\Documentos\NetBeansProjects\ProyectoMetodosRegresionMinCuad_253311\target\reports\apidocs\index.html = 1762050630009
+C:\Users\valen\OneDrive\Documentos\NetBeansProjects\ProyectoMetodosRegresionMinCuad_253311\target\reports\apidocs\member-search-index.js = 1762050630035
+C:\Users\valen\OneDrive\Documentos\NetBeansProjects\ProyectoMetodosRegresionMinCuad_253311\target\reports\apidocs\module-search-index.js = 1762050630031
+C:\Users\valen\OneDrive\Documentos\NetBeansProjects\ProyectoMetodosRegresionMinCuad_253311\target\reports\apidocs\overview-summary.html = 1762050630057
+C:\Users\valen\OneDrive\Documentos\NetBeansProjects\ProyectoMetodosRegresionMinCuad_253311\target\reports\apidocs\overview-tree.html = 1762050630000
+C:\Users\valen\OneDrive\Documentos\NetBeansProjects\ProyectoMetodosRegresionMinCuad_253311\target\reports\apidocs\package-search-index.js = 1762050630032
+C:\Users\valen\OneDrive\Documentos\NetBeansProjects\ProyectoMetodosRegresionMinCuad_253311\target\reports\apidocs\search.html = 1762050630053
+C:\Users\valen\OneDrive\Documentos\NetBeansProjects\ProyectoMetodosRegresionMinCuad_253311\target\reports\apidocs\serialized-form.html = 1762050629961
+C:\Users\valen\OneDrive\Documentos\NetBeansProjects\ProyectoMetodosRegresionMinCuad_253311\target\reports\apidocs\tag-search-index.js = 1762050630036
+C:\Users\valen\OneDrive\Documentos\NetBeansProjects\ProyectoMetodosRegresionMinCuad_253311\target\reports\apidocs\type-search-index.js = 1762050630033
